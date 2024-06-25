@@ -11,6 +11,7 @@ Hello! I'm **Robert**, a 22-year-old developer from Spain. Appasionate of Web De
 - 🔧 **Backend** : Node.js, MongoDB, Mongoose
 - 🎮 **Hobbies:** Coding, Gaming, Reading, Traveling
   
+## Contributions
 [![@ItzRoBeerT Astro contributions](https://astro.badg.es/v2/contributor/ItzRoBeerT.svg)](https://astro.badg.es/contributor/ItzRoBeerT/)
 
 ## Stats
