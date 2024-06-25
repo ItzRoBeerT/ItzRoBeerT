@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey! , It's me, Robert! 👋
+
+- 🧑 Spanish, 22 years old
+- 🛠 Passionate about building fast, accessible, and friendly UIs.
 
 <!--
 **ItzRoBeerT/ItzRoBeerT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
