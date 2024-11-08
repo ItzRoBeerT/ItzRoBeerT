@@ -4,7 +4,7 @@ Hello! I'm **Robert**, a 22-year-old developer from Spain. Appasionate of Web De
 
 ## Interests
 
-- 💻 **Programming Languages:** JavaScript, Java
+- 💻 **Programming Languages:** JavaScript, Python, Java
 - ⚛️ **Frameworks:** React, Next.js
 - 🔧 **Backend** : Node.js, MongoDB, Mongoose
 - 🎮 **Hobbies:** Coding, Gaming, Reading, Traveling
